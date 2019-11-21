@@ -1,3 +1,3 @@
 # Just playing with git
 
-## Cause why not
+## Cause why not!
